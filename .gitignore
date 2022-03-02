@@ -1,0 +1,12 @@
+#
+# Folders
+#
+slprj/
+
+#
+# Files
+#
+Thumbs.db
+*.slxc
+*.mex*
+*.mdl.*
